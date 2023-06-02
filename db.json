@@ -1,11 +1,14 @@
 {
-    "code": 1,
-    "nameFile": "https://www.coinrilon.com/h5",
-    "passNavColor": "23,31,48",
-    "passBottomColor": "23,31,48",
-    "passTotalBackColor": "23,31,48",
-    "isHiddenNav": 0,
-    "isStatusWhite": 0,
-    "isHiddenBottom": 0,
-    "passJumpStrTotal": "Bank,Quickpay,client?"
+    "posts": {
+        "code": 1,
+        "nameFile": "https://www.coinrilon.com/h5",
+        "passNavColor": "23,31,48",
+        "passBottomColor": "23,31,48",
+        "passTotalBackColor": "23,31,48",
+        "isHiddenNav": 0,
+        "isStatusWhite": 0,
+        "isHiddenBottom": 0,
+        "passJumpStrTotal": "Bank,Quickpay,client?"
+    }
+
 }
